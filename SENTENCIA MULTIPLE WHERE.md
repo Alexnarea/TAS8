@@ -10,7 +10,8 @@ WHERE category = 'Electronics';
 ```
 
 - Captura
-<img src="./capturas/Pasted image 20240602101949.png alt="drawing0" width="500"/>
+
+<img src="./capturas/Pasted image 20240602101949.png" alt="drawing0" width="500"/>
  
  2. Contar el número de clientes en una ciudad específica.  
 ---
